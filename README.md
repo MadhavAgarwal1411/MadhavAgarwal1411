@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Express Js, MongoDB**
 
-- 💬 Ask me about **JAVA, React and GSAP**
+- 💬 Ask me about **Typescript, React and React Native**
 
 - 📫 How to reach me **agarwalmadhav1411@gmail.com**
 
