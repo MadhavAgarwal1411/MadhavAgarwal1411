@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/madhav_agarwal_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhav_agarwal_05" height="30" width="40" /></a>
 </p>
 -->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -107,20 +108,6 @@ Here are some ideas to get you started:
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25" height="25" />
   </a> 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
 </p>
 
 <img alt=" my stats " align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MadhavAgarwal1411&show_icons=true&theme=radical" />
