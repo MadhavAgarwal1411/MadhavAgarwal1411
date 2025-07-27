@@ -113,8 +113,9 @@ Here are some ideas to get you started:
 <img alt=" my stats " align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MadhavAgarwal1411&show_icons=true&theme=radical" />
 
 <img alt=" top langs " align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavAgarwal1411&layout=compact&theme=radical" />
-<!--
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MadhavAgarwal1411)](https://github.com/MadhavAgarwal1411/github-readme-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavAgarwal1411&theme=radical" alt="Madhav Agarwal" /></p>
+
+<!--
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MadhavAgarwal1411)](https://github.com/MadhavAgarwal1411/github-readme-stats)
 -->
