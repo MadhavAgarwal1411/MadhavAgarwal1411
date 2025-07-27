@@ -110,10 +110,9 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-<img alt=" my stats " align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MadhavAgarwal1411&show_icons=true&theme=radical" />
-
 <img alt=" top langs " align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavAgarwal1411&layout=compact&theme=radical" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavAgarwal1411&theme=radical" alt="Madhav Agarwal" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavAgarwal1411&theme=radical" alt="Madhav Agarwal" /></p>
+<img alt=" my stats " align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MadhavAgarwal1411&show_icons=true&theme=radical" />
 
 <!--
 
