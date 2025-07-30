@@ -104,7 +104,7 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
-  </a> 
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25" height="25" />
   </a> 
