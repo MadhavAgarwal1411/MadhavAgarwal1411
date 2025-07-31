@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /> 
-  </a> 
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> 
   </a> 
