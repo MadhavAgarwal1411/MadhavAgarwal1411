@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**MadhavAgarwal1411/MadhavAgarwal1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Madhav Agarwal</h1>
 <h3 align="center">An aspiring FullStack Web and App Developer from India</h3>
 
@@ -21,11 +5,37 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavagarwal" /> </p>
 
-- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Typescript, React and React Native**
+---
 
-- 📫 How to reach me **agarwalmadhav1411@gmail.com**
+## 🏆 Notable Projects
+
+- 🚗 [Car Renting App](https://github.com/MadhavAgarwal1411/car_renting_app): A comprehensive platform for seamless car rentals.
+- 🥦 [Green Basket App](https://github.com/MukundSB19/Green-Basket-App): Making grocery shopping greener and smarter.
+- 🤖 [Algorators Reimagine Round 1](https://github.com/anshagarwal19/AlgoratorsReimagineRound1): A good and responsive website—a random website clone.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React & Next.js
+- Backend scalability & database design
+- Mobile development with React Native & Expo
+
+---
+
+## ♟️ Fun Fact
+
+I'm a chess enthusiast—let's play a game sometime!
+
+---
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/MadhavAgarwal1411)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhav-agarwal-89135b267/)
+
+---
 
 <!--
 <h3 align="left">Connect with me:</h3>
@@ -82,6 +92,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
   </a>
 </p>
+
+---
 
 <img alt=" top langs " align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavAgarwal1411&layout=compact&theme=radical" />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavAgarwal1411&theme=radical" alt="Madhav Agarwal" /></p>
