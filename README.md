@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madhav Agarwal</h1>
 <h3 align="center">An aspiring FullStack Web and App Developer from India</h3>
 
+---
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavagarwal" /> </p>
@@ -32,17 +34,9 @@ I'm a chess enthusiast—let's play a game sometime!
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/MadhavAgarwal1411)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhav-agarwal-89135b267/)
 
 ---
-
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/madhav_agarwal_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhav_agarwal_05" height="30" width="40" /></a>
-</p>
--->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
