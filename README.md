@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavagarwal" /></p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavagarwal"/></p> 
 
 
 ---
