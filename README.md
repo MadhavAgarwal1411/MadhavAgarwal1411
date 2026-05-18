@@ -20,7 +20,7 @@
 
 ## 🌱 Currently Learning
 
-- Advanced React & Next.js
+- DevOps
 - Backend scalability & database design
 - Mobile development with React Native & Expo
 
