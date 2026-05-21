@@ -1,0 +1,36 @@
+name: GitHub Readme Stats
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Readme Stats
+        uses: anuraghazra/github-readme-stats-github-action@v1
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          output_dir: ./generated-stats
+          # Match your preferred radical theme configuration
+          theme: radical
+          show_icons: true
+          layout: compact
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ./generated-stats/\*
+          git diff-index --quiet HEAD || git commit -m "Update profile readme stats"
+          git push
