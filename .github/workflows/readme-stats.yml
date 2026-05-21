@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch: # Allows you to manually trigger it
   push:
     branches:
       - main
@@ -13,24 +13,36 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to allow the runner to push images back to your repo
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Readme Stats
-        uses: anuraghazra/github-readme-stats-github-action@v1
+      # 1. Generate the Main Stats Card
+      - name: Generate Main Stats Card
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
-          gh_token: ${{ secrets.GH_TOKEN }}
-          output_dir: ./generated-stats
-          # Match your preferred radical theme configuration
-          theme: radical
-          show_icons: true
-          layout: compact
+          card: stats
+          options: 'username=${{ github.repository_owner }}&theme=radical&show_icons=true'
+          path: ./generated-stats/github-readme-stats.svg
+          token: ${{ secrets.GH_TOKEN }}
 
+      # 2. Generate the Top Languages Card
+      - name: Generate Top Languages Card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&theme=radical&layout=compact'
+          path: ./generated-stats/top-langs.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      # 3. Commit the generated SVGs back to your repository
       - name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ./generated-stats/\*
+          mkdir -p ./generated-stats
+          git add ./generated-stats/*.svg
           git diff-index --quiet HEAD || git commit -m "Update profile readme stats"
           git push
