@@ -89,9 +89,8 @@ I'm a chess enthusiast—let's play a game sometime!
 
 ---
 
-<img alt=" top langs " align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavAgarwal1411&layout=compact&theme=radical" />
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavAgarwal1411&theme=radical" alt="Madhav Agarwal" /></p>
-<img alt=" my stats " align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MadhavAgarwal1411&show_icons=true&theme=radical" />
+<img alt="top langs" align="left" width="47%" src="./generated-stats/top-langs.svg" />
+<img alt="my stats" align="left" width="47%" src="./generated-stats/github-readme-stats.svg" />
 
 <!--
 
