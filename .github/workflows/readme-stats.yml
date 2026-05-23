@@ -37,13 +37,13 @@ jobs:
           path: ./generated-stats/top-langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
-      # 3. Generate WakaTime Card
-      - name: Generate WakaTime Card
+      # 3. Generate Pinned Repo Card
+      - name: Generate Pinned Repo Card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
-          card: wakatime
-          options: 'username=${{ github.repository_owner }}&theme=radical'
-          path: ./generated-stats/wakatime.svg
+          card: pin
+          options: 'username=${{ github.repository_owner }}&repo=car_renting_app&theme=radical'
+          path: ./generated-stats/pinned-repo.svg
           token: ${{ secrets.GH_TOKEN }}
 
       # 4. Commit the generated SVGs back to your repository
@@ -52,6 +52,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p ./generated-stats
+          git rm -q --ignore-unmatch ./generated-stats/wakatime.svg
           git add ./generated-stats/*.svg
           git diff-index --quiet HEAD || git commit -m "Update profile readme stats"
           git push

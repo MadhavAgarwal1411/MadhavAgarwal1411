@@ -2,13 +2,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6E96&background=00000000&center=true&vCenter=true&width=500&lines=Freelance+Software+Developer;Building+Next.js+%2B+TypeScript+Apps;React+Native+Mobile+Developer;Turning+Spreadsheets+into+Clean+SaaS" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhavagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavagarwal"/>
+</p>
+
 ---
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=madhavagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavagarwal"/></p>
-
----
 
 ## 🏆 Notable Projects
 
@@ -56,8 +56,8 @@ I'm a chess enthusiast—let's play a game sometime!
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">💻 Languages and Tools</h3>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html5" />
   </a> 
@@ -107,15 +107,24 @@ I'm a chess enthusiast—let's play a game sometime!
 
 ---
 
-<img alt="top langs" align="left" width="47%" src="./generated-stats/top-langs.svg" />
-<img alt="my stats" align="left" width="47%" src="./generated-stats/github-readme-stats.svg" />
-<br clear="both"/><br/>
+<h3 align="center">📊 My GitHub Stats</h3>
+<p align="center">
+  <img alt="my stats" width="48%" src="./generated-stats/github-readme-stats.svg" />
+  <img alt="top langs" width="48%" src="./generated-stats/top-langs.svg" />
+</p>
+<p align="center">
+  <img alt="streak stats" width="48%" src="https://streak-stats.demolab.com/?user=MadhavAgarwal1411&theme=radical" />
+  <img alt="pinned repo" width="48%" src="./generated-stats/pinned-repo.svg" />
+</p>
 
-<img alt="streak stats" align="left" width="47%" src="https://streak-stats.demolab.com/?user=MadhavAgarwal1411&theme=radical" /><br/>
+---
 
 <h3 align="center">📈 GitHub Activity Graph</h3>
-<img alt="activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavAgarwal1411&theme=radical&bg_color=141321&hide_border=true" />
-<br clear="both"/><br/>
+<p align="center">
+  <img alt="activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavAgarwal1411&theme=radical&bg_color=141321&hide_border=true" />
+</p>
  
 <h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center"><img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=MadhavAgarwal1411&theme=radical&margin-w=15&margin-h=15" /></p>
+<p align="center">
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=MadhavAgarwal1411&theme=radical&margin-w=15&margin-h=15" />
+</p>
