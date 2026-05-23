@@ -92,7 +92,10 @@ I'm a chess enthusiast—let's play a game sometime!
 <img alt="my stats" align="left" width="47%" src="./generated-stats/github-readme-stats.svg" />
 <br clear="both"/><br/>
 
-<img alt="streak stats" align="left" width="47%" src="https://streak-stats.demolab.com/?user=MadhavAgarwal1411&theme=radical" />
+<img alt="streak stats" align="left" width="47%" src="https://streak-stats.demolab.com/?user=MadhavAgarwal1411&theme=radical" /><br/>
+
+<h3 align="center">📈 GitHub Activity Graph</h3>
+<img alt="activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavAgarwal1411&theme=radical&bg_color=141321&hide_border=true" />
 <br clear="both"/><br/>
  
 <h3 align="center">🏆 GitHub Trophies</h3>
