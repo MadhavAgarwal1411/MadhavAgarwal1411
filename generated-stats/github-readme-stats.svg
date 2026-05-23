@@ -77,7 +77,7 @@
         stroke-dashoffset: 251.33;
       }
       to {
-        stroke-dashoffset: 163.18;
+        stroke-dashoffset: 155.83;
       }
     }
   
@@ -173,7 +173,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B-
+          B
         </text>
       
         </g>
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >30</text>
+      >43</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >818</text>
+      >821</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
