@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhav Agarwal</h1>
-<h3 align="center">An aspiring FullStack Web and App Developer from India</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6E96&background=00000000&center=true&vCenter=true&width=500&lines=Freelance+Software+Developer;Building+Next.js+%2B+TypeScript+Apps;React+Native+Mobile+Developer;Turning+Spreadsheets+into+Clean+SaaS" alt="Typing SVG" />
+</p>
 ---
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
@@ -34,6 +35,24 @@ I'm a chess enthusiast—let's play a game sometime!
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhav-agarwal-89135b267/)
+
+---
+
+### 🛠️ Tech Stack
+
+✨ **Frontend & Mobile**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+🚀 **Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+🌐 **Infrastructure**  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
