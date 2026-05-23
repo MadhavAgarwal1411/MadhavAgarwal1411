@@ -93,7 +93,6 @@ I'm a chess enthusiast—let's play a game sometime!
 <br clear="both"/><br/>
 
 <img alt="streak stats" align="left" width="47%" src="https://streak-stats.demolab.com/?user=MadhavAgarwal1411&theme=radical" />
-<img alt="wakatime stats" align="left" width="47%" src="./generated-stats/wakatime.svg" />
 <br clear="both"/><br/>
  
 <h3 align="center">🏆 GitHub Trophies</h3>
