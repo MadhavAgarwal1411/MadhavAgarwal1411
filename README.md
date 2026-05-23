@@ -91,8 +91,11 @@ I'm a chess enthusiast—let's play a game sometime!
 
 <img alt="top langs" align="left" width="47%" src="./generated-stats/top-langs.svg" />
 <img alt="my stats" align="left" width="47%" src="./generated-stats/github-readme-stats.svg" />
+<br clear="both"/><br/>
 
-<!--
+<img alt="streak stats" align="left" width="47%" src="https://streak-stats.demolab.com/?user=MadhavAgarwal1411&theme=radical" />
+<img alt="wakatime stats" align="left" width="47%" src="./generated-stats/wakatime.svg" />
+<br clear="both"/><br/>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MadhavAgarwal1411)](https://github.com/MadhavAgarwal1411/github-readme-stats)
--->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center"><img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=MadhavAgarwal1411&theme=radical&margin-w=15&margin-h=15" /></p>

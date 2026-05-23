@@ -38,6 +38,16 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
       # 3. Commit the generated SVGs back to your repository
+      # 3. Generate WakaTime Card
+      - name: Generate WakaTime Card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: wakatime
+          options: 'username=${{ github.repository_owner }}&theme=radical'
+          path: ./generated-stats/wakatime.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      # 4. Commit the generated SVGs back to your repository
       - name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
