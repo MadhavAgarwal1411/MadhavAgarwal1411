@@ -114,15 +114,10 @@ I'm a chess enthusiast—let's play a game sometime!
 </p>
 <p align="center">
   <img alt="streak stats" width="48%" src="https://streak-stats.demolab.com/?user=MadhavAgarwal1411&theme=radical" />
-  <img alt="pinned repo" width="48%" src="./generated-stats/pinned-repo.svg" />
+  <img alt="activity graph" width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavAgarwal1411&theme=radical&bg_color=141321&hide_border=true" />
 </p>
 
 ---
-
-<h3 align="center">📈 GitHub Activity Graph</h3>
-<p align="center">
-  <img alt="activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhavAgarwal1411&theme=radical&bg_color=141321&hide_border=true" />
-</p>
  
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
