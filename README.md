@@ -8,13 +8,76 @@
 
 ---
 
+## 🗺️ Featured Client Projects
+
+<details>
+  <summary><b>🏥 FBS Healthcare</b> — Order & Employee Operations System</summary>
+  <br />
+
+### ⚡ System Overview
+
+An internal, core operations platform designed to clean up daily workflows, manage complex task dispatching, track live orders, and coordinate staff scheduling efficiently.
+
+### 🛠️ Architecture & Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+| Layer              | Technology             | Primary Responsibility                                                   |
+| :----------------- | :--------------------- | :----------------------------------------------------------------------- |
+| **Frontend**       | Next.js & TypeScript   | Intuitive internal administrative portal usable by non-technical staff   |
+| **Backend Engine** | Next.js Server Actions | Encapsulated business rules, tracking events, and secure execution lines |
+| **Database / ORM** | Prisma & MySQL         | Fully schema-structured transactional storage and relation safety        |
+
+### 🛠️ Engineering Challenges & Breakthroughs
+
+- **From Google Sheets to Schema:** Mapped loosely-coupled spreadsheet layouts directly into solid relational structures, converting messy data into indexed tables without breaking history.
+- **Granular Role-Based Security:** Engineered fine-grained access control tables isolating system features seamlessly between system Admins, Operations Managers, and Field Employees.
+- **Operational Flow Logic:** Built heavy data validation steps ensuring sequence dependencies (order placements, tracking histories, staff updates) run linearly without system collision.
+
+<!-- 🔗 **Repository:** [View on GitHub](https://github.com/MadhavAgarwal1411/fbs-healthcare) -->
+
+</details>
+
+<details>
+  <summary><b>💼 Mascot E-Services</b> — Recruiter Consultant Management Software (CMS)</summary>
+  <br />
+
+### ⚡ System Overview
+
+A highly customized workflow hub optimized for recruiting operations. It handles profile indexing, client assignment tracking, and candidate placement services from one centralized workspace.
+
+### 🛠️ Architecture & Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+| Component           | Stack                | Primary Focus                                                                   |
+| :------------------ | :------------------- | :------------------------------------------------------------------------------ |
+| **Web Application** | Next.js / TypeScript | High-density control desk for consultant records and pipeline audits            |
+| **API Gateway**     | Node.js / REST       | Asynchronous data layer maintaining state parity between web and mobile devices |
+
+### 🛠️ Engineering Challenges & Breakthroughs
+
+- **Workflow Consolidation:** Extracted operational knowledge from legacy manual spreadsheets, building a custom relational system to organize candidate profiles and company assignments cleanly.
+- **Low-Friction UI Adoption:** Focused on crafting clean user interface flows to help manual users drop legacy spreadsheet tracking easily without experiencing layout shock or confusion.
+
+<!-- 🔗 **Repository:** [View on GitHub](https://github.com/MadhavAgarwal1411/mascot-e-services) -->
+
+</details>
+
+---
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 ## 🏆 Notable Projects
 
 - 🚗 [Car Renting App](https://github.com/MadhavAgarwal1411/car_renting_app): A comprehensive platform for seamless car rentals.
 - 🥦 [Green Basket App](https://github.com/MukundSB19/Green-Basket-App): Making grocery shopping greener and smarter.
-- 🤖 [Algorators Reimagine Round 1](https://github.com/anshagarwal19/AlgoratorsReimagineRound1): A good and responsive website—a random website clone.
 
 ---
 
@@ -103,6 +166,15 @@ I'm a chess enthusiast—let's play a game sometime!
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
   </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  </a>
 </p>
 
 ---
@@ -118,7 +190,7 @@ I'm a chess enthusiast—let's play a game sometime!
 </p>
 
 ---
- 
+
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=MadhavAgarwal1411&theme=radical&margin-w=15&margin-h=15" />
