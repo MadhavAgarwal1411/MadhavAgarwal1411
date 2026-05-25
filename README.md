@@ -83,7 +83,7 @@ A highly customized workflow hub optimized for recruiting operations. It handles
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-## 🏆 Notable Projects
+## 🏆 Notable Practice Projects
 
 - 🚗 [Car Renting App](https://github.com/MadhavAgarwal1411/car_renting_app): A comprehensive platform for seamless car rentals.
 - 🥦 [Green Basket App](https://github.com/MukundSB19/Green-Basket-App): Making grocery shopping greener and smarter.
