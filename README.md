@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Freelance%20Availability-Open%20for%20Projects-brightgreen?style=for-the-badge&logo=rocket" alt="Availability" />
+  <img src="https://img.shields.io/badge/Current%20Sprint-Building%20SaaS%20Utilities-FF6E96?style=for-the-badge&logo=github" alt="Current Focus" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Madhav Agarwal</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6E96&background=00000000&center=true&vCenter=true&width=500&lines=Freelance+Software+Developer;Building+Next.js+%2B+TypeScript+Apps;React+Native+Mobile+Developer;Turning+Spreadsheets+into+Clean+SaaS" alt="Typing SVG" />
@@ -81,6 +86,15 @@ A highly customized workflow hub optimized for recruiting operations. It handles
 
 ---
 
+## 🤝 How I Help Businesses
+
+I partner with teams and small businesses to automate manual workflows, sunset legacy spreadsheets, and build secure, fast software platforms.
+
+* **🔍 Process Auditing:** I sit down with your teams to map out unorganized Google Sheets or manual steps into crisp, relational logic.
+* **🏗️ Custom Database Design:** I model strict SQL schemas with Prisma ORM to ensure your client data, transactions, and inventories stay relational and fast.
+* **🔒 Role-Based Security:** I build explicit access privileges (Admins, Managers, Employees) to keep corporate dashboards secure and simple for non-technical users.
+
+
 ## 🌱 Currently Learning
 
 - DevOps
@@ -95,9 +109,20 @@ I'm a chess enthusiast—let's play a game sometime!
 
 ---
 
-## 📫 Connect with Me
+## 📬 Let's Build Something Together
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhav-agarwal-89135b267/)
+Got a workflow trapped in a spreadsheet or an internal system that needs scaling? Let’s grab a coffee and talk about your system architecture.
+
+[![Book a Discovery Call](https://img.shields.io/badge/📅%20Book%20A%2015--Min%20Discovery%20Call-Click%20Here-FF6E96?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/madhav-developer)
+[![Message on LinkedIn](https://img.shields.io/badge/💬%20Connect%20on%20LinkedIn-Message%20Me-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-agarwal-89135b267/)
+
+---
+
+## 📖 Profile Guestbook
+
+Are you visiting my profile? I’d love to know where you are visiting from or what you're building! Click the button below to sign my public profile guestbook and leave a note.
+
+[![Sign the Guestbook](https://img.shields.io/badge/✍️%20Sign%20My%20Guestbook-Click%20Here-FF6E96?style=for-the-badge&logo=github)](https://github.com/MadhavAgarwal1411/MadhavAgarwal1411/discussions/1)
 
 ---
 
