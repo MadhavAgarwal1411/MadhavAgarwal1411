@@ -9,6 +9,10 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhavagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavagarwal"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dynamic%20Status-🟢%20Active%20%26%20Coding-brightgreen?style=flat-square" alt="Live Status" />
+  <img src="https://img.shields.io/badge/Current%20Local%20Time-Asia%2FKolkata-FF6E96?style=flat-square&logo=clock" alt="Timezone Lock" />
+</p>
 </p>
 
 ---
